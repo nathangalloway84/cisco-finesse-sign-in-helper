@@ -43,7 +43,7 @@
 <p>You do not have to use the publically available package in the Chrome Web Store. You are free to take this extremely simple source code, customize it (or don't customize it) and publish your own extension to your Enterprise. If you are a premise CCE customer, this would be your best option because this extension only permits *.webexcce domains. You would minimally have to edit these within the manifest.json file to work with your own domains</p>
 
 <!-- DOWNLOADING FROM CHROME WEB STORE -->
-## Downloading from Crhome Web Store
+## Downloading from Chrome Web Store
 1. Go to the Chrome Web Store: https://chrome.google.com/webstore/category/extensions
 2. Search the store for: Cisco Finesse Sign-In Helper
 3. Add the extension to Chrome
